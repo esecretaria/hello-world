@@ -1,2 +1,2 @@
 # hello-world
-# bit bit bit bit about yourself.
+bit bit bit bit about yourself.
